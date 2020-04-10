@@ -11,6 +11,10 @@
 </p>
 
 
+<p align="center">
+  <img alt="Preview" src="./assets/preview.png" width="100%">
+</p>
+
 ## Description
 
 ### Things we are going to cover:
